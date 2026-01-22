@@ -20,4 +20,4 @@
 
 ## Installation / Documentation Guide
 
-To install and set up this project, visit the official [documentation](https://atmosx.calrp.com/docs). 
+To install and set up this project, visit the official [documentation](https://atmsx-docs.calrp.com/docs/). 
