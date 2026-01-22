@@ -4,7 +4,11 @@
 
 <div align="center">
   	<p align = "center">Project AtmosphericX is a web dashboard and widget manager for amateur weather enthusiasts, storm chasers, and anyone passionate about understanding and tracking severe weather events. AtmosphericX provides near real time alerts with NOAA Weather Wire Service Open Interface or the NWS API.</small></p>
-  	<p align = "center">Documentation written by @k3yomi</p>
+  	<p align="center">
+	  Documentation written by 
+	  <a href="https://github.com/k3yomi">k3yomi</a> & 
+	  <a href="https://github.com/Starflight24">StarflightWx</a>
+	</p>
 	<div align="center" style="border: none;">
 		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/K3YOMI/AtmosphericX">
 		<img alt="GitHub forks" src="https://img.shields.io/github/forks/K3YOMI/AtmosphericX">
