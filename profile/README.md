@@ -7,14 +7,14 @@
 	  <a href="https://github.com/Starflight24">StarflightWx</a>
 	</p>
 	<div align="center" style="border: none;">
-		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/K3YOMI/AtmosphericX">
-		<img alt="GitHub forks" src="https://img.shields.io/github/forks/K3YOMI/AtmosphericX">
-		<img alt="GitHub issues" src="https://img.shields.io/github/issues/K3YOMI/AtmosphericX">
-		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/K3YOMI/AtmosphericX">
+		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AtmosphericX/AtmosphericX">
+		<img alt="GitHub forks" src="https://img.shields.io/github/forks/AtmosphericX/AtmosphericX">
+		<img alt="GitHub issues" src="https://img.shields.io/github/issues/AtmosphericX/AtmosphericX">
+		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/AtmosphericX/AtmosphericX">
 	</div>
 </div>
 
 
 ## Important Links
 [Current Progress](https://github.com/users/AtmosphericX/projects/2)\
-[Documentation (v8)](https://atmsx-docs.calrp.com/docs/)
+[Documentation (v8)](https://atmosx-secondary.scriptkitty.cafe/docs)
