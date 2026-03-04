@@ -15,6 +15,14 @@
 <br>
 AtmosphericX is a modern, modular, and powerful weather dashboard and widget project designed to be self hosted for live streaming, storm spotting, storm chasing, meteorologists, first responders, or curious individuals who are concerned about weather conditions and safety.
 
+<br><br>
+
+[![NPM](https://nodei.co/npm/atmosx-nwws-parser.svg?style=shields&data=n,v)](https://nodei.co/npm/atmosx-nwws-parser/)
+[![NPM](https://nodei.co/npm/atmosx-tempest-station.svg?style=shields&data=n,v&color=lightgrey)](https://nodei.co/npm/atmosx-tempest-station/)
+[![NPM](https://nodei.co/npm/atmosx-pulse-point.svg?style=shields&data=n,v&color=red)](https://nodei.co/npm/atmosx-pulse-point/)
+[![NPM](https://nodei.co/npm/atmosx-placefile-parser.svg?style=shields&data=n,v&color=blue)](https://nodei.co/npm/atmosx-placefile-parser/)
+
+
 ## Disclaimer
 > AtmosphericX is an independent, open source project and is **not** affiliated with, endorsed by, or sponsored by any government agency, meteorological organization, emergency management service, or official weather provider. This project may reference, parse, or process publicly available weather data, including but **not** limited to services operated by the National Weather Service (NWS) and the National Oceanic and Atmospheric Administration (NOAA). All trademarks, service marks, and data rights remain the property of their respective owners. AtmosphericX is provided "as is", without warranty of any kind, express or implied, including but **not** limited to:
 > - Accuracy or completeness of parsed weather data
