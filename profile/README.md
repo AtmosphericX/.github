@@ -1,4 +1,6 @@
-<h1 style='font-size: 65px'; align="center">🌩️ Project AtmosphericX 🌪️</h1>
+<img width="8889" height="5000" alt="atmosx-2027-logoV2" src="https://github.com/user-attachments/assets/93c2ef72-1f36-4e93-9487-08d8b0de8a10" />
+
+
 <div align="center">
   	<p align="center">
 	  Documentation written by 
