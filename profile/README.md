@@ -1,27 +1,3 @@
-<img width="8889" height="5000" alt="atmosx-2027-logoV2" src="https://github.com/user-attachments/assets/93c2ef72-1f36-4e93-9487-08d8b0de8a10" />
-
-
-<div align="center">
-  	<p align="center">
-	  Documentation written by 
-	  <a href="https://github.com/k3yomi">k3yomi</a> & 
-	  <a href="https://github.com/Starflight24">StarflightWx</a>
-	</p>
-	<div align="center" style="border: none;">
-		<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AtmosphericX/AtmosphericX">
-		<img alt="GitHub forks" src="https://img.shields.io/github/forks/AtmosphericX/AtmosphericX">
-		<img alt="GitHub issues" src="https://img.shields.io/github/issues/AtmosphericX/AtmosphericX">
-		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/AtmosphericX/AtmosphericX">
-	</div>
-</div>
-<br>
-AtmosphericX is a modern, modular, and powerful weather dashboard and widget project designed to be self hosted for live streaming, storm spotting, storm chasing, meteorologists, first responders, or curious individuals who are concerned about weather conditions and safety.
-
-<br><br>
-
-
-
-
 ## Disclaimer
 > AtmosphericX is an independent, open source project and is **not** affiliated with, endorsed by, or sponsored by any government agency, meteorological organization, emergency management service, or official weather provider. This project may reference, parse, or process publicly available weather data, including but **not** limited to services operated by the National Weather Service (NWS) and the National Oceanic and Atmospheric Administration (NOAA). All trademarks, service marks, and data rights remain the property of their respective owners. AtmosphericX is provided "as is", without warranty of any kind, express or implied, including but **not** limited to:
 > - Accuracy or completeness of parsed weather data
